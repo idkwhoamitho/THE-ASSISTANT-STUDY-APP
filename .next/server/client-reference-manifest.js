@@ -259,9 +259,6 @@ self.__RSC_MANIFEST={
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "D:\\Serious-Learn\\project\\1\\THE-ASSISTANT-STUDY-APP\\src\\app\\page": [
-      "static/css/app/page.css"
-    ],
     "D:\\Serious-Learn\\project\\1\\THE-ASSISTANT-STUDY-APP\\src\\app\\layout": [
       "static/css/app/layout.css"
     ]
@@ -943,7 +940,6 @@ self.__RSC_MANIFEST={
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/app/page.css",
         "static/css/app/layout.css"
       ]
     },
