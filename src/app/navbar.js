@@ -12,10 +12,7 @@ const Navbar = () => {
                 </li>
                 <li>
                     <Link href='/About' className="hover:bg-white hover:text-black hover:rounded-md">About Project</Link>
-                </li>
-                <li>
-                    <Link href='/login' className='hover:bg-white hover:text-black hover:rounded-md'>Login</Link>
-                </li>
+                </li>              
             </ul>            
         </div>
     </>
